@@ -1,0 +1,12 @@
+//email
+email:  info@bancassurance.co.ug
+Password:	Use the email account's password.
+Incoming Server:	mail.bancassurance.co.ug
+IMAP Port: 143 POP3 Port: 110
+Outgoing Server:	mail.bancassurance.co.ug
+SMTP Port: 587
+
+//phone
+https://api.clickatell.com/http/sendmsg?user=$user&password=$pass&api_id=3654463&to=$to&text=$message
+$user = 'SanlamUganda';
+            $pass = 'S@nlamUg@nda1';
